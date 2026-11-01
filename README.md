@@ -35,6 +35,31 @@ Open a terminal in the `week01` directory.
 
 Activities A, B and C (IPO components, algorithms, pseudocode and flowcharts) are written on paper, as instructed, so they are not in this repository.
 
+## Week 2: Development Environment and First Java Program
+
+### Objective
+
+To configure the Java development environment, write a simple Java program, compile it, execute it and submit the source code through GitHub.
+
+### Files
+
+- `week02/HelloWorld.java`: Java source code for the practical, personalised with my course and programme details.
+- `week02/StudentProfile.java`: displays my student profile using `print()` and `println()`.
+- `week02/PrintExample.java`: the `print()` and `println()` practice exercise. My prediction of the output is in the comment at the top.
+- `week02/ErrorExample.java`: the "find and fix the error" exercise, corrected by adding the missing semicolon.
+
+### How to Run
+
+1. Open a terminal in the `week02` directory.
+2. Compile a program, for example `javac HelloWorld.java`.
+3. Run it using `java HelloWorld`.
+
+Use the same two commands for the other files: `StudentProfile`, `PrintExample` and `ErrorExample`.
+
+### Learning Outcome
+
+I practised creating, compiling and running Java programs from the terminal, using `print()`, `println()` and comments, reading a compiler error message to fix a missing semicolon, and submitting source code through GitHub.
+
 ## Week 3: Variables, Data Types, Expressions and Input/Output
 
 ### Objectives
