@@ -7,8 +7,33 @@ Practical exercises for COS 201 Computer Programming I.
 - Name: David Otokhina
 - Matriculation Number: 25/16254
 - Programme: Computer Science
-- Course: COS 201
-- Week: 3
+- Course: COS 201 — Computer Programming I
+
+## Week 1: Introduction to Programming and Problem-Solving
+
+### Practical Exercise
+
+Created and executed my first Java programme. I then modified it to display the course code and title, my programme of study, three reasons programming is important to Computer Science, and my personal learning goal for COS 201.
+
+### File
+
+- `week01/FirstProgram.java`
+
+### How to Run
+
+Open a terminal in the `week01` directory.
+
+- `javac FirstProgram.java`
+- `java FirstProgram`
+
+### Skills Practised
+
+- Java class and main method
+- Output statements
+- Compilation and execution
+- GitHub version control
+
+Activities A, B and C (IPO components, algorithms, pseudocode and flowcharts) are written on paper, as instructed, so they are not in this repository.
 
 ## Week 3: Variables, Data Types, Expressions and Input/Output
 
